@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155831352565",
+    "project_id": "placars-40f6e",
+    "storage_bucket": "placars-40f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155831352565:android:ac46db6295705e7d4e19bc",
+        "android_client_info": {
+          "package_name": "com.placars.placars_savt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155831352565-maccbskhtpqvgl1f15qp5q499jjir1b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSS7kqIaLWcmFcIPRyGgI9_JFzOPyw58A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155831352565-maccbskhtpqvgl1f15qp5q499jjir1b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

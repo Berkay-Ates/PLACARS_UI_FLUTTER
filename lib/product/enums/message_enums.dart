@@ -1,0 +1,1 @@
+enum MessageEnums { general, personal }

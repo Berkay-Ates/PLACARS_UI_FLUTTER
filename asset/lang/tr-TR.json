@@ -1,0 +1,140 @@
+{
+    "signIn":{
+        "welcome":"Placars'a Hoşgeldin!",
+        "enter_text":"Giriş yap",
+        "email":"Email addresin",
+        "email_enter":"Email addresini gir",
+        "pasword":"Şifren",
+        "password_enter":"Şifreni gir",
+        "forgot_password":"Şifremi unuttum",
+        "enter_button":"Giriş yap",
+        "no_account":"Hesabın yok mu?",
+        "create_account":"Hesap oluştur", 
+        "invalid_email":"lütfen gecerli bir email giriniz",
+        "invalid_password":"lütfen gecerli bir şifre giriniz",
+        "try_again_later":"Şifreniz ile emailiniz eşleşmiyor olabilir. Lütfen tekrar deneyiniz."
+    },
+    "signUp":{
+        "appName":"PLACARS",
+        "lets_Start":"Hadi Başlayalım",
+        "start_account_creating":"Hesabını oluşturmaya başla",
+        "your_name_surname":"Adını ve soyadını gir",
+        "your_email":"Email addresini gir",
+        "your_user_name":"Kullanıcı adını gir",
+        "your_password":"Şifreni gir",
+        "verify_password":"Şifreni doğrula",
+        "create_account_btn":"Hesabımı oluştur",
+        "enter_to_app":"Giriş Yap",
+        "have_an_account":"Hesabın var mı?",
+        "invalid_name":"Lütfen geçerli isim girin",
+        "invalid_email":"Lütfen geçerli mail addresi girin",
+        "invalid_user_name":"Lütfen geçerli kullanıcı adı girin",
+        "invalid_password":"Lütfen geçerli şifre girin",
+        "passwords_missmatch":"Şifreler aynı olmalı",
+        "name_hint":"Adın ve soyadın",
+        "email_hint":"Email addresin",
+        "user_name_hint":"Kullanıcı adın",
+        "password_hint":"Şifren",
+        "password_again_hint":"Şifren tekrar",
+        "verify_your_account":"Giriş yapabilmek için mail addresinizi doğrulamalısınız."
+    },
+    "forgot_password":{
+        "forgot":"Şifremi unuttum",
+        "description":"Kayıtlı olduğun email addresini gir. Şifreni sıfırlaman icin link gonderecegiz",
+        "email_address":"Email adresin",
+        "email_address_hint":"Email adresini gir",
+        "send_mail":"Link yolla",
+        "invalid_email":"gecerli bir mail addresi giriniz"
+    },
+    "bottomNavigationBar":{
+       "main_page":"Ana Sayfa",
+       "cars":"Araçlarım",
+       "messages":"Mesajlarım",
+       "account":"Hesabım"
+    },
+    "settings":{
+        "account":"Hesabım",
+        "prefers":"Tercihlerimi Düzenle",
+        "notifications":"Bildirim Ayarları",
+        "profile":"Profilimi Düzenle",
+        "general":"Genel",
+        "theme_dark":"Karanlık Tema",
+        "theme_light":"Açık Tema",
+        "support":"Destek",
+        "issue":"Sorun Bildir",
+        "exit":"Çıkış Yap"
+    },
+    "exit_widget":{
+        "exit":"Çıkış Yap",
+        "dispose":"Vazgeç"
+    },
+    "notifications_settings":{
+        "prefers":"Bildirim Ayarları",
+        "notifications_prefer":"Bildirim Tercihi",
+        "explain_text":"Olaylardan haberdar olmak icin bildirimleri açın",
+        "save":"Tercihleri kaydet"
+    },
+    "home_page":{
+        "no_car_warn_txt":"Sana gösterecek herhangi bir post mevcut degil.",
+        "app_name":"Placars",
+        "search":"Plaka ara",
+        "interesting":"İlgi Çeken",
+        "news":"En Yeniler",
+        "liked":"Beğenilen"
+    },"notifications_page":{
+        "appbar":"Bildirimler",
+        "new_message":"kullanıcısından mesaj aldın",
+        "new_comment":"plakalı aracın icin yorum yapıldı"
+    },"messages":{
+        "appbar":"Mesajlarım",
+        "general_mesge":"Genel",
+        "personal_mesge":"Özel",
+        "no_messaged_person":"Paylaşılan postlardan kullanıcılara mesajlar göndermeye başlayabilirsin."
+    },"my_cars_page":{
+        "appbar":"Araçlarım",
+        "warn_txt":"There must be some problems please try again later"
+    },"add_car_page":{
+        "appbar":"Yeni Araç Ekle",
+        "plate_txt":"Araç plakası gir",
+        "brand_txt":"Araç markası gir",
+        "km_txt":"Araç km bilgisini gir",
+        "description_txt":"Araç açıklaması",
+        "car_sale":"Aracım Satılık",
+        "car_license":"Ruhsat ekle",
+        "add_license":"Araç ruhsatını buradan yükle",
+        "car_photo":"Add Car Photos",
+        "add_car_photo":"Araç fotograflarını buradan yükle",
+        "warn_txt":"bu alan boş geçilemez",
+        "send_btn":"Gönder"
+    },"edit_profile":{
+        "appbar":"Profili Düzenle",
+        "prfl_photo":"Fotografı Değiştir",
+        "user_name":"Kullanıcı Adı Değiştir",
+        "new_userName":"yeni kullanıcı adı",
+        "name_surname":"İsim Soyisim Değiştir",
+        "new_name_surname":"yeni isim soyisim",
+        "password":"Şifreni Değiştir",
+        "new_password":"yeni şifre",
+        "verify_password":"Şifreni doğrula",
+        "passwords_missmatch":"şifreler aynı olmalı",
+        "update_profile_btn":"Profili Güncelle"
+    },"chat_view":{
+        "chat_info":"Mesaj yaz"
+    },
+    "delete_car_widget":{
+        "delete":"Aracı Sil",
+        "dismiss":"Vazgeç"
+    },
+    "car_post_detail":{
+        "like":"Beğeni",
+        "comment":"Yorum",
+        "type_message":"Mesaj yaz"
+    },"email_verificaiton":{
+        "info_txt":" Mail Adresine Doğrulama Linki Gönderdik.\n Hesabını Dogruladiktan Sonra\n Giriş Yapabilirsin.",
+        "verified_btn":"Giriş Yap",
+        "another_account_btn":"Geri Dön",
+        "toast_message":"Üzgünüz bu mail hala doğrulanmamış. Başka bir hesap açmayı deneyebilirsin."
+    },"car_list_page":{
+        "add_new_cars":"Sag üstte bulunan artı işaretine tıklayarak yeni arabalar eklemeyi deneyebilirsin"
+    }
+}

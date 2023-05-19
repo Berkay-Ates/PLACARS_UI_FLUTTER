@@ -1,0 +1,8 @@
+enum CacheEnumKeys {
+  TOKEN,
+  ENTERENCE,
+  THEME,
+  NOTIFICATION,
+  USERHIVEKEY,
+  USERHIVEBOXKEY,
+}

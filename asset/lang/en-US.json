@@ -1,0 +1,141 @@
+{
+    "signIn":{
+        "welcome":"Welcome to Placars!",
+        "enter_text":"Enter to app",
+        "email":"Email address",
+        "invalid_email":"please provide a valid email",
+        "email_enter":"Enter your email address",
+        "pasword":"Password",
+        "invalid_password":"please provide a valid password",
+        "password_enter":"Enter your password",
+        "forgot_password":"Forgot password?",
+        "enter_button":"Enter to app",
+        "no_account":"No account yet?",
+        "create_account":"Create an account",  
+        "try_again_later":"There must be some problem with your email or password please. Try again later."  
+    },
+    "signUp":{
+        "appName":"PLACARS",
+        "lets_Start":"Let's Start",
+        "start_account_creating":"Start creating your account",
+        "your_name_surname":"Enter your name and surname",
+        "your_email":"Enter your email address",
+        "your_user_name":"Enter your username",
+        "your_password":"Enter your password",
+        "verify_password":"Verify your password",
+        "create_account_btn":"Crete Account",
+        "enter_to_app":"Enter to app",
+        "have_an_account":"Have account?",
+        "invalid_name":"please enter a valid name",
+        "invalid_email":"please enter valid email",
+        "invalid_user_name":"please enter valid username",
+        "invalid_password":"plese enter valid password",
+        "passwords_missmatch":"passwords must be same",
+        "name_hint":"Your name and surname",
+        "email_hint":"Your Email address",
+        "user_name_hint":"Your username",
+        "password_hint":"Your password",
+        "password_again_hint":"Your password again",
+        "verify_your_account":"You have to verify your account via sended email to your mail address"
+    },
+    "forgot_password":{
+        "forgot":"Forgot my password",
+        "description":"Enter your email address that you used for registration. We will send link for pasword reset.",
+        "email_address":"Your email address",
+        "email_address_hint":"Enter your email address",
+        "send_mail":"Send link",
+        "invalid_email":"enter a valid email"
+    },
+    "bottomNavigationBar":{
+       "main_page":"Home Page",
+       "cars":"My Cars",
+       "messages":"Messages",
+       "account":"Account"
+    },
+    "settings":{
+        "account":"My Account",
+        "prefers":"Edit My Preferences",
+        "notifications":"Notification Settings",
+        "profile":"Edit My Profile",
+        "general":"General",
+        "theme_dark":"Dark Theme",
+        "theme_light":"Open Theme",
+        "support":"Support",
+        "issue":"Report the Problem",
+        "exit":"Log Out"
+    },
+    "exit_widget":{
+        "exit":"Log Out",
+        "dispose":"Stay In"
+    },
+    "notifications_settings":{
+        "prefers":"Notifications Settings",
+        "notifications_prefer":"Notifications Settings",
+        "explain_text":"If you want to get notified about what is happening turn on switch",
+        "save":"Save Changes"
+    },
+    "home_page":{
+        "no_car_warn_txt":"There is no car posts to show you right now.",
+        "app_name":"Placars",
+        "search":"Search plate",
+        "interesting":"Interestings",
+        "news":"The Newests",
+        "liked":"Popular"
+    },"notifications_page":{
+        "appbar":"Notificaions",
+        "new_message":"send you new messages",
+        "new_comment":"plate car received a comment"
+    },"messages":{
+        "appbar":"My Messages",
+        "general_mesge":"General",
+        "personal_mesge":"Personal",
+        "no_messaged_person":"You can find people and message to them from their posts"
+    }
+    ,"my_cars_page":{
+        "appbar":"My Cars",
+        "warn_txt":"There must be some problems please try again later"
+    },"add_car_page":{
+        "appbar":"Add New Car",
+        "plate_txt":"Enter car plate",
+        "brand_txt":"Enter car brand",
+        "km_txt":"Enter car km",
+        "description_txt":"Car description",
+        "car_sale":"My car is for sale",
+        "car_license":"Add License",
+        "add_license":"You can add hicense here",
+        "car_photo":"Add Car Photos",
+        "add_car_photo":"Select your car cool photos",
+        "warn_txt":"this field could not be empty",
+        "send_btn":"Send"
+    },"edit_profile":{
+        "appbar":"Edit Profile",
+        "prfl_photo":"Change Photo",
+        "user_name":"Change Username",
+        "new_userName":"New Username",
+        "name_surname":"Change Name Surname",
+        "new_name_surname":"New Name Surname",
+        "password":"Change Password",
+        "new_password":"New Password",
+        "verify_password":"Verify your password",
+        "passwords_missmatch":"passwords must be same",
+        "update_profile_btn":"Update Profile"
+    },"chat_view":{
+        "chat_info":"Type messages"
+    },
+    "delete_car_widget":{
+        "delete":"Delte Car",
+        "dismiss":"Never Mind"
+    },
+    "car_post_detail":{
+        "like":"Like",
+        "comment":"Comment",
+        "type_message":"Type message"
+    },"email_verificaiton":{
+        "info_txt":" Mail Address has been received a Verification Link\n After You Verified Your Account\n You Can Enter To App.",
+        "verified_btn":"Enter to App",
+        "another_account_btn":"Back",
+        "toast_message":"Sorry your email does not look verified yet try again later, or you can create new one. "
+    },"car_list_page":{
+        "add_new_cars":"You can add new cars via using the plus sing on the right corner"
+    }
+}
